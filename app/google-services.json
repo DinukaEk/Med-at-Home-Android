@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "601168426898",
+    "project_id": "med-at-home-c790d",
+    "storage_bucket": "med-at-home-c790d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601168426898:android:c397de6b7a501053fb734b",
+        "android_client_info": {
+          "package_name": "lk.sltc.medathome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601168426898-n679apkqs2lvp8hbic4pf4odm1k4aof2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lk.sltc.medathome",
+            "certificate_hash": "24c0e7eefb8d2351e7d77e5b0a8607a05025e6ae"
+          }
+        },
+        {
+          "client_id": "601168426898-a7739l2v1av5u4degbd3nlunlguvrojs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF83PQSaRJ3GpvXLw_BSaDovjMrOXAp8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601168426898-a7739l2v1av5u4degbd3nlunlguvrojs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
